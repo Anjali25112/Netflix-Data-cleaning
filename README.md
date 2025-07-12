@@ -8,10 +8,10 @@ To design and implement an End-to-End ELT (Extract, Load, Transform) data pipeli
 - Created a final staging table suitable for analysis.
 - Answered real business questions using SQL queries on cleaned data.
 #### Key Features
-▼
-1
-Data Cleaning Operations: Handling foreign characters. Removing duplicates. Converting data types appropriately. Populating and managing missing values. Creating new dimension tables (e.g., for countries).
-2
-SQL-Based Analysis: Answering 5 real-world SQL questions post-cleaning. Demonstrates data comprehension and insight generation.
-3
-End-to-End Pipeline: Automates ELT stages. Reflects modern data engineering practices.
+
+
+- Data Cleaning Operations: Handling foreign characters. Removing duplicates. Converting data types appropriately. Populating and managing missing values. Creating new dimension tables (e.g., for countries).
+
+- SQL-Based Analysis: Answering 5 real-world SQL questions post-cleaning. Demonstrates data comprehension and insight generation.
+
+- End-to-End Pipeline: Automates ELT stages. Reflects modern data engineering practices.
